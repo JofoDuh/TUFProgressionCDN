@@ -1,0 +1,71 @@
+{
+  "Bootstrap": {
+    "TUFProgression.Bootstrap.dll": {
+      "name": "TUFProgression.Bootstrap.dll",
+      "size": 41984,
+      "hash": "397c496e844eee527fab9c57c797da0f5191e282d7d4e5f48c7bf6b4ecdf5ea8"
+    },
+    "TUFProgression.Bootstrap.pdb": {
+      "name": "TUFProgression.Bootstrap.pdb",
+      "size": 25288,
+      "hash": "ef883036f9cdda7201c58ad361001db0fd0776e43408bd071a6248c2ebb21117"
+    },
+    "TUFProgression.Shared.dll": {
+      "name": "TUFProgression.Shared.dll",
+      "size": 148992,
+      "hash": "f6a3231b2292e9d1f99d81d258afdfcd139a06cdad8cb9eca14cc78c995ff046"
+    },
+    "TUFProgression.Shared.pdb": {
+      "name": "TUFProgression.Shared.pdb",
+      "size": 80252,
+      "hash": "3ae4fc7684898a929f467db41defd37f33220b0b6a0f1f55e06e038d65dc603b"
+    },
+    "AssetBundles/tufprogression_bootstrap_assets.bundle": {
+      "name": "tufprogression_bootstrap_assets.bundle",
+      "size": 469368,
+      "hash": "cedc2b0aac1441ef9cfee3d616f2519cf1798eb4b52614c66acfee62d50524d2"
+    },
+    "AssetBundles/tufprogression_bootstrap_scenes.bundle": {
+      "name": "tufprogression_bootstrap_scenes.bundle",
+      "size": 112250,
+      "hash": "1c747ae9d2b7831386fe9fd2562d6c096e3681bf30056716431134a355e3c87d"
+    }
+  },
+  "Core": {
+    "Furina/TUFProgression.dll": {
+      "name": "TUFProgression.dll",
+      "size": 22528,
+      "hash": "f3b2ac20b08e6150b1ea35a6411d9ab9f5aac9aacb17743dfe54a5c1758af5e3"
+    },
+    "Furina/TUFProgression.pdb": {
+      "name": "TUFProgression.pdb",
+      "size": 20828,
+      "hash": "302be8d0fba72848f1b5330ec37528599fc32e6a90e64aa1d3af349240b0a057"
+    },
+    "Furina/Addressables/catalog.bin": {
+      "name": "catalog.bin",
+      "size": 1783,
+      "hash": "c0a5ca32f7ee55b1f5fa3c87735e3160c6414f66d310aaa4149d69208e46708c"
+    },
+    "Furina/Addressables/catalog.hash": {
+      "name": "catalog.hash",
+      "size": 32,
+      "hash": "bd5b73349e1c59dd181b6398766c24ea76ce9034a6133859b4b2aed98b7d3386"
+    },
+    "Furina/Addressables/settings.json": {
+      "name": "settings.json",
+      "size": 864,
+      "hash": "584b68762d80f318d322cbe68f2bd196807a9e7704e0c0bf56907146dcc524b3"
+    },
+    "Furina/Addressables/AddressablesLink/link.xml": {
+      "name": "link.xml",
+      "size": 1030,
+      "hash": "6b990d238b534775b06c81dc37a978ad19c6c6efc4526057685e4b3db5e140a5"
+    },
+    "Furina/Addressables/StandaloneWindows64/tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle": {
+      "name": "tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle",
+      "size": 79199,
+      "hash": "f50c3aac3c2000c33be8de4077732920dae7505c572b7f0ad5de5bd697dab6df"
+    }
+  }
+}
