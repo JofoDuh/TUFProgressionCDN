@@ -3,17 +3,17 @@
     "TUFProgression.Bootstrap.bin": {
       "name": "TUFProgression.Bootstrap.bin",
       "size": 49680,
-      "hash": "1abb1fddbe7a9952232abe92c48fd2b109260999889d2aa4293b67b4901cb786"
+      "hash": "414a8eba1b96e00e929fa3a62f5d61492c65f924b11baf76fee563d1344fe576"
     },
     "TUFProgression.Bootstrap.pdb": {
       "name": "TUFProgression.Bootstrap.pdb",
       "size": 27488,
-      "hash": "9450a3930b91d9e774601888b3d525c1c2d1c62c0cbd8860442455c81e7a041f"
+      "hash": "32dbfc1049f05048f252afa490f6ecf918fa67c01ee661ef138466567dc18eab"
     },
     "TUFProgression.Shared.bin": {
       "name": "TUFProgression.Shared.bin",
       "size": 156688,
-      "hash": "eb48fec02f3f032ce230f20a632665a8199c59b8f88187b1f3990e3646a2928f"
+      "hash": "1a06497eea9368613734f718459a5ea8e8e2de7e60d5244d147a8c7a3ed6da7d"
     },
     "TUFProgression.Shared.pdb": {
       "name": "TUFProgression.Shared.pdb",
@@ -35,7 +35,7 @@
     "Furina/TUFProgression.bin": {
       "name": "TUFProgression.bin",
       "size": 22544,
-      "hash": "ce086c0dc355a88c7f93463abcec285ed56494595e83d3b1ed78ca8a12f29353"
+      "hash": "163247f35d6394d2c099eb7d756615feb4f1771f605d7d2c220b5396a26a1545"
     },
     "Furina/TUFProgression.pdb": {
       "name": "TUFProgression.pdb",
