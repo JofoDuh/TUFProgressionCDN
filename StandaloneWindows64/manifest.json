@@ -5,7 +5,7 @@
       "TUFProgression.Bootstrap.bin": {
         "name": "TUFProgression.Bootstrap.bin",
         "size": 53776,
-        "hash": "17afd6153529e2e77cf2ccb2bd4effdeedf70d87e76fe82ac915629950ea3aef"
+        "hash": "7c4dc30846a2a9cefaad14c949260d8323f22b28e44599799452f77bad680172"
       },
       "TUFProgression.Bootstrap.pdb": {
         "name": "TUFProgression.Bootstrap.pdb",
@@ -15,7 +15,7 @@
       "TUFProgression.Shared.bin": {
         "name": "TUFProgression.Shared.bin",
         "size": 162832,
-        "hash": "2ad17b3a12fa15e67b3ecb9b3bf4440e1041383db2086bedb7293edd7c6c2cfb"
+        "hash": "699783b4144dcfb275a3b64784fa02499d723cac1025fa62a0137a26284011a5"
       },
       "TUFProgression.Shared.pdb": {
         "name": "TUFProgression.Shared.pdb",
@@ -35,7 +35,8 @@
     },
     "IgnorePurge": [
       "BootstrapSetting.json",
-      "Logs/"
+      "Logs/",
+      "Furina/"
     ]
   }
 }
