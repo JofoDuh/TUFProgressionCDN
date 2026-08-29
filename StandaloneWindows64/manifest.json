@@ -1,21 +1,21 @@
 {
   "Bootstrap": {
-    "Version": "1.0.0",
+    "Version": "0.0.1",
     "Files": {
       "TUFProgression.Bootstrap.bin": {
         "name": "TUFProgression.Bootstrap.bin",
-        "size": 53264,
-        "hash": "f71096d9b110f1d22119dfe2619eaf5c67356c7cf1ef056e086805bc1be89ca7"
+        "size": 53776,
+        "hash": "17afd6153529e2e77cf2ccb2bd4effdeedf70d87e76fe82ac915629950ea3aef"
       },
       "TUFProgression.Bootstrap.pdb": {
         "name": "TUFProgression.Bootstrap.pdb",
-        "size": 28668,
-        "hash": "a7b87e9a4bbd3f482edbc7a368574df83122de5e61f69cebfe38084339e5b3b9"
+        "size": 28948,
+        "hash": "34b8f969c6d886c0e84a8ff7acf09f7b06d1602fc859dda3fe24292e6d0a6b34"
       },
       "TUFProgression.Shared.bin": {
         "name": "TUFProgression.Shared.bin",
         "size": 162832,
-        "hash": "bd78ecfafe7ea25da60f488abb592c29cd30f6ab97c20627001ead1b4d6ea00a"
+        "hash": "2ad17b3a12fa15e67b3ecb9b3bf4440e1041383db2086bedb7293edd7c6c2cfb"
       },
       "TUFProgression.Shared.pdb": {
         "name": "TUFProgression.Shared.pdb",
@@ -32,6 +32,10 @@
         "size": 113108,
         "hash": "06d87846f06da489c2f7db795df38b00587c0e042dedd29eede2b23df688f281"
       }
-    }
+    },
+    "IgnorePurge": [
+      "BootstrapSetting.json",
+      "Logs/"
+    ]
   }
 }

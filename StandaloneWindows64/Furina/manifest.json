@@ -1,11 +1,11 @@
 {
   "Core": {
-    "Version": "1.0.0",
+    "Version": "0.0.1",
     "Files": {
       "TUFProgression.bin": {
         "name": "TUFProgression.bin",
         "size": 22544,
-        "hash": "0f6c973eaa9a3b171d020e4dc3fc107b97027e96fd79d4c93cc7bbd4146740aa"
+        "hash": "e4c878b3c79efbe1395de31eb324d92fe840490a67ae4e1e3033fcf7b60d64c2"
       },
       "TUFProgression.pdb": {
         "name": "TUFProgression.pdb",
@@ -37,6 +37,7 @@
         "size": 79199,
         "hash": "f50c3aac3c2000c33be8de4077732920dae7505c572b7f0ad5de5bd697dab6df"
       }
-    }
+    },
+    "IgnorePurge": []
   }
 }
