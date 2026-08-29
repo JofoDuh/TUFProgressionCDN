@@ -1,71 +1,37 @@
 {
   "Bootstrap": {
-    "TUFProgression.Bootstrap.bin": {
-      "name": "TUFProgression.Bootstrap.bin",
-      "size": 51728,
-      "hash": "ca137d2be7d510082b78a86d54fae3888d129365c7f710b611e73cf301bce98e"
-    },
-    "TUFProgression.Bootstrap.pdb": {
-      "name": "TUFProgression.Bootstrap.pdb",
-      "size": 27792,
-      "hash": "a254006bea0c7c885d2f265fca260f9a9fcafa603af100471ccfc312305b1b6d"
-    },
-    "TUFProgression.Shared.bin": {
-      "name": "TUFProgression.Shared.bin",
-      "size": 156688,
-      "hash": "edd18caa9feca1d302409a2004d886aaba5e8d724de8c50d1702ab01cfb39f7c"
-    },
-    "TUFProgression.Shared.pdb": {
-      "name": "TUFProgression.Shared.pdb",
-      "size": 82420,
-      "hash": "7c4cee402ce9eaf035a33cac393eb674c971824c3a1ba3152abf85e7f72e755c"
-    },
-    "AssetBundles/tufprogression_bootstrap_assets.bundle": {
-      "name": "tufprogression_bootstrap_assets.bundle",
-      "size": 469368,
-      "hash": "cedc2b0aac1441ef9cfee3d616f2519cf1798eb4b52614c66acfee62d50524d2"
-    },
-    "AssetBundles/tufprogression_bootstrap_scenes.bundle": {
-      "name": "tufprogression_bootstrap_scenes.bundle",
-      "size": 113108,
-      "hash": "06d87846f06da489c2f7db795df38b00587c0e042dedd29eede2b23df688f281"
-    }
-  },
-  "Core": {
-    "Furina/TUFProgression.bin": {
-      "name": "TUFProgression.bin",
-      "size": 22544,
-      "hash": "74f909c8fd0744bd855d3db0e47e3a1780e9e46b1af9ea92b5d1b5e90608fc00"
-    },
-    "Furina/TUFProgression.pdb": {
-      "name": "TUFProgression.pdb",
-      "size": 20864,
-      "hash": "270bd9ca2519108a8f17cdc9fe7bc437365c15435b27246801fc862fee6ce576"
-    },
-    "Furina/Addressables/catalog.bin": {
-      "name": "catalog.bin",
-      "size": 1783,
-      "hash": "c0a5ca32f7ee55b1f5fa3c87735e3160c6414f66d310aaa4149d69208e46708c"
-    },
-    "Furina/Addressables/catalog.hash": {
-      "name": "catalog.hash",
-      "size": 32,
-      "hash": "bd5b73349e1c59dd181b6398766c24ea76ce9034a6133859b4b2aed98b7d3386"
-    },
-    "Furina/Addressables/settings.json": {
-      "name": "settings.json",
-      "size": 864,
-      "hash": "584b68762d80f318d322cbe68f2bd196807a9e7704e0c0bf56907146dcc524b3"
-    },
-    "Furina/Addressables/AddressablesLink/link.xml": {
-      "name": "link.xml",
-      "size": 1030,
-      "hash": "6b990d238b534775b06c81dc37a978ad19c6c6efc4526057685e4b3db5e140a5"
-    },
-    "Furina/Addressables/StandaloneWindows64/tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle": {
-      "name": "tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle",
-      "size": 79199,
-      "hash": "f50c3aac3c2000c33be8de4077732920dae7505c572b7f0ad5de5bd697dab6df"
+    "Version": "1.0.0",
+    "Files": {
+      "TUFProgression.Bootstrap.bin": {
+        "name": "TUFProgression.Bootstrap.bin",
+        "size": 52752,
+        "hash": "e501c14feb7ed19e6541a2b56c7c145e5815776ece418d844982639bba0d7d78"
+      },
+      "TUFProgression.Bootstrap.pdb": {
+        "name": "TUFProgression.Bootstrap.pdb",
+        "size": 28088,
+        "hash": "b43774163e61d38c616dea9de4fa16371a86e44001307a551bc7bab770b529a6"
+      },
+      "TUFProgression.Shared.bin": {
+        "name": "TUFProgression.Shared.bin",
+        "size": 156688,
+        "hash": "0ebff7f76669d0aa55eec995d59118c6f94f21a563391f43e223c65845080e88"
+      },
+      "TUFProgression.Shared.pdb": {
+        "name": "TUFProgression.Shared.pdb",
+        "size": 82420,
+        "hash": "7c4cee402ce9eaf035a33cac393eb674c971824c3a1ba3152abf85e7f72e755c"
+      },
+      "AssetBundles/tufprogression_bootstrap_assets.bundle": {
+        "name": "tufprogression_bootstrap_assets.bundle",
+        "size": 469266,
+        "hash": "f7f597a6cacbab4fa7e8bba72de4c3fed18901907686fa12d3954cb193e580a1"
+      },
+      "AssetBundles/tufprogression_bootstrap_scenes.bundle": {
+        "name": "tufprogression_bootstrap_scenes.bundle",
+        "size": 113108,
+        "hash": "06d87846f06da489c2f7db795df38b00587c0e042dedd29eede2b23df688f281"
+      }
     }
   }
 }
