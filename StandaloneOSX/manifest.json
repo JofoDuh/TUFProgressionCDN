@@ -5,7 +5,7 @@
       "TUFProgression.Bootstrap.bin": {
         "name": "TUFProgression.Bootstrap.bin",
         "size": 55824,
-        "hash": "2a84e3c2313a8f3851cabfe4edb7c580aeca6c18ba19d6e8f43d958f0030bfc1"
+        "hash": "7fd7570ed976da79e27eee8916a0c78fc54cc9cf8e11dcf0fa9e95ede48096e4"
       },
       "TUFProgression.Bootstrap.pdb": {
         "name": "TUFProgression.Bootstrap.pdb",
@@ -15,7 +15,7 @@
       "TUFProgression.Shared.bin": {
         "name": "TUFProgression.Shared.bin",
         "size": 246800,
-        "hash": "7f261c2ce8ee286410d83cbb6530a1a3357716096ad94a1bf57f60ea72b2a398"
+        "hash": "0f034d27dcdf5e81bbcc904cf7f002b4232a3af567133e13dcbe16a2f2b54f9d"
       },
       "TUFProgression.Shared.pdb": {
         "name": "TUFProgression.Shared.pdb",
@@ -24,13 +24,13 @@
       },
       "AssetBundles/tufprogression_bootstrap_assets.bundle": {
         "name": "tufprogression_bootstrap_assets.bundle",
-        "size": 20050460,
-        "hash": "a466cb92070838a0839709d12fea327ca0dd45d9df1d0dcfa003d15e59699eda"
+        "size": 20040444,
+        "hash": "11180f51d4b7c5c428e7c635755ca4a5d6966389344ea6b2095d1289487a904b"
       },
       "AssetBundles/tufprogression_bootstrap_scenes.bundle": {
         "name": "tufprogression_bootstrap_scenes.bundle",
-        "size": 39716,
-        "hash": "73cbac955420edfb73ffe4f5711e8de7e513e0869b3d9dc9fa68767224a0804f"
+        "size": 45474,
+        "hash": "ff3dc1aad7a526aeffe235e95c58e78f3459e813567732a2ad250b0b9308bb8f"
       }
     },
     "IgnorePurge": [

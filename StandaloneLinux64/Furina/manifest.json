@@ -5,7 +5,7 @@
       "TUFProgression.bin": {
         "name": "TUFProgression.bin",
         "size": 53776,
-        "hash": "342082ab369355ab0bc9bf0cfdc49d7badf464ecd1ea3992fc696c5dd6abd0c1"
+        "hash": "adfaaa492ce7a7f4dbef81c99b7d47632f016c6ef8fe30d1760361ae7a34eaa2"
       },
       "TUFProgression.pdb": {
         "name": "TUFProgression.pdb",
@@ -25,39 +25,39 @@
       "Addressables/settings.json": {
         "name": "settings.json",
         "size": 864,
-        "hash": "efc74ec9fc3bee0e0a3c2690ce14620bacd955c095a2105c877643ba4b907d1b"
+        "hash": "5032a8b1dfa429a26da090f651731fbb0a02ef23005b32528a087232445540d2"
       },
       "Addressables/AddressablesLink/link.xml": {
         "name": "link.xml",
         "size": 9679,
         "hash": "e3d0caeef213dc780df76380778cf8831e6f7cc28c1cbbd18c0d381361408f6a"
       },
-      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_monoscripts_9b904c0d027b7e5729a0092cadb00f29.bundle": {
+      "Addressables/StandaloneLinux64/288be07d20a43d1f4aa31220ebf50316_monoscripts_9b904c0d027b7e5729a0092cadb00f29.bundle": {
         "name": "288be07d20a43d1f4aa31220ebf50316_monoscripts_9b904c0d027b7e5729a0092cadb00f29.bundle",
         "size": 3727,
         "hash": "2873f0e5ed9f930ffbbf3cdaf7ebc4996b454852c0912417dd2488152e10b546"
       },
-      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle": {
+      "Addressables/StandaloneLinux64/288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle": {
         "name": "288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle",
         "size": 33754,
         "hash": "7e20d87ac9334596f2271489097b3747cea4551c92106385b4c2e4ced22b195f"
       },
-      "Addressables/StandaloneWindows64/tufprogression_assets_assets_all_c2235146eb188f6abbc11f6172012cef.bundle": {
+      "Addressables/StandaloneLinux64/tufprogression_assets_assets_all_c2235146eb188f6abbc11f6172012cef.bundle": {
         "name": "tufprogression_assets_assets_all_c2235146eb188f6abbc11f6172012cef.bundle",
         "size": 7635269,
         "hash": "8dad134f19aed7308f987258c2f4003602ba35be6f98132b714449fa12e830bf"
       },
-      "Addressables/StandaloneWindows64/tufprogression_assets_scenes_all_c8a120b775eb716559ef748196825a4f.bundle": {
+      "Addressables/StandaloneLinux64/tufprogression_assets_scenes_all_c8a120b775eb716559ef748196825a4f.bundle": {
         "name": "tufprogression_assets_scenes_all_c8a120b775eb716559ef748196825a4f.bundle",
         "size": 180436,
         "hash": "bfa3f932b9a293d06f1dcee643c1524d7d7e2fa920b1db9c9adb3e9259c91162"
       },
-      "Addressables/StandaloneWindows64/tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle": {
+      "Addressables/StandaloneLinux64/tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle": {
         "name": "tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle",
         "size": 356541,
         "hash": "564e03fd917e38079873322e0381614f4a884333db48165963fa209efd16bf3a"
       },
-      "Addressables/StandaloneWindows64/tufprogression_scenes_assets_all_f69eac494d02c95808b15170b54551e3.bundle": {
+      "Addressables/StandaloneLinux64/tufprogression_scenes_assets_all_f69eac494d02c95808b15170b54551e3.bundle": {
         "name": "tufprogression_scenes_assets_all_f69eac494d02c95808b15170b54551e3.bundle",
         "size": 79208,
         "hash": "2a84cc9ac5767dba156ca5b0a4620c7ba0a2fdfc7257e31f37699bdc9a0d36e3"
