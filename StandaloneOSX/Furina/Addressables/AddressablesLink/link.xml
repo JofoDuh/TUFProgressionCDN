@@ -5,6 +5,7 @@
     <type fullname="TUFProgression.Scenes.MainScene.MainSceneSettingPanel" preserve="all" />
     <type fullname="TUFProgression.Scenes.MainScene.MainSceneUI" preserve="all" />
     <type fullname="TUFProgression.Scenes.MainScene.Menus.MainMenu" preserve="all" />
+    <type fullname="TUFProgression.UI.Effects.TextMarquee" preserve="all" />
   </assembly>
   <assembly fullname="TUFProgression.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TUFProgression.Shared.I18n.LocalizedText" preserve="all" />
@@ -90,6 +91,7 @@
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
