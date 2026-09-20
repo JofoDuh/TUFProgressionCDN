@@ -4,33 +4,33 @@
     "Files": {
       "TUFProgression.Bootstrap.bin": {
         "name": "TUFProgression.Bootstrap.bin",
-        "size": 53776,
-        "hash": "f344c37166123b4b514fc3fc6815609ce5057a1c6e682ce042f09b5c58bad993"
+        "size": 55824,
+        "hash": "67034f4cc3714a8c6c6732928f96efa27773c56e56ad1922eda4acb971e0a7c5"
       },
       "TUFProgression.Bootstrap.pdb": {
         "name": "TUFProgression.Bootstrap.pdb",
-        "size": 29500,
-        "hash": "0f793ea1a222b880796393e468f410d131d178c38235831941c7cd4b073c3c6b"
+        "size": 29744,
+        "hash": "e29f2ea33634b6b5e8efbcc3ac57cccd5d0a964a811ed8f2272a98a72dbfa218"
       },
       "TUFProgression.Shared.bin": {
         "name": "TUFProgression.Shared.bin",
-        "size": 200720,
-        "hash": "c00c09d4b75945a694a2455a7aa74d02e46f45ba1167dfe8878c1f76486f090c"
+        "size": 246800,
+        "hash": "0b0992c20da77d2ecf7ea956231cd314faf10836cd6d7d29f3f5a49cee953e84"
       },
       "TUFProgression.Shared.pdb": {
         "name": "TUFProgression.Shared.pdb",
-        "size": 97868,
-        "hash": "12b3334b9d2c14059507a641ab08fead9004402256d18037caad6d61f8e74969"
+        "size": 123816,
+        "hash": "aac3b27fd5239ec3475cad52dc5c612f1f3619a21185801a99ad2d648cb98aca"
       },
       "AssetBundles/tufprogression_bootstrap_assets.bundle": {
         "name": "tufprogression_bootstrap_assets.bundle",
-        "size": 20054482,
-        "hash": "f656a1daf77c3ff36abf5eec45bdc045397c62925904aa3b67f40272197e44d6"
+        "size": 20050460,
+        "hash": "a466cb92070838a0839709d12fea327ca0dd45d9df1d0dcfa003d15e59699eda"
       },
       "AssetBundles/tufprogression_bootstrap_scenes.bundle": {
         "name": "tufprogression_bootstrap_scenes.bundle",
-        "size": 39733,
-        "hash": "91cf4517f74d92abbeb8c0c08b3c46d5b0ddf7d9b46e9f3c11d66d122fce05e2"
+        "size": 39716,
+        "hash": "73cbac955420edfb73ffe4f5711e8de7e513e0869b3d9dc9fa68767224a0804f"
       }
     },
     "IgnorePurge": [

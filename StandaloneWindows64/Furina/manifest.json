@@ -4,40 +4,67 @@
     "Files": {
       "TUFProgression.bin": {
         "name": "TUFProgression.bin",
-        "size": 22544,
-        "hash": "823c7000dc1963f70236beff1bd9fe7ef55b311ebf7b25e29f1a4700cbaf5840"
+        "size": 53776,
+        "hash": "81b106f4ed4d0668a1bf4d9ab46ba0b66449be03a3bf67c8206c8087d025f450"
       },
       "TUFProgression.pdb": {
         "name": "TUFProgression.pdb",
-        "size": 20864,
-        "hash": "75f095ed18d522d9f262994405b9d303b3dbd6da1705521f55918de820ec0b15"
+        "size": 28396,
+        "hash": "593c56299ded455b18e59efa6ad450dd225838e5e0f3ec86d8b28a92d9347037"
       },
       "Addressables/catalog.bin": {
         "name": "catalog.bin",
-        "size": 1783,
-        "hash": "c0a5ca32f7ee55b1f5fa3c87735e3160c6414f66d310aaa4149d69208e46708c"
+        "size": 26106,
+        "hash": "037d73c873bc7a92313979b2c50cc097ee7dd8689f16f2f84e59ab72bdac9de0"
       },
       "Addressables/catalog.hash": {
         "name": "catalog.hash",
         "size": 32,
-        "hash": "bd5b73349e1c59dd181b6398766c24ea76ce9034a6133859b4b2aed98b7d3386"
+        "hash": "72babe22efc70e59416feed6e5d86b21d0d5bedf35786287eab878f96d39901d"
       },
       "Addressables/settings.json": {
         "name": "settings.json",
         "size": 864,
-        "hash": "09bd585a245fe5680a7ae35336621d32714f93ec4b1eac14455873d5631a125c"
+        "hash": "efc74ec9fc3bee0e0a3c2690ce14620bacd955c095a2105c877643ba4b907d1b"
       },
       "Addressables/AddressablesLink/link.xml": {
         "name": "link.xml",
-        "size": 1030,
-        "hash": "6b990d238b534775b06c81dc37a978ad19c6c6efc4526057685e4b3db5e140a5"
+        "size": 9679,
+        "hash": "e3d0caeef213dc780df76380778cf8831e6f7cc28c1cbbd18c0d381361408f6a"
       },
-      "Addressables/StandaloneWindows64/tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle": {
-        "name": "tufprogression_assets_assets_all_53925839a418f9cc9e7e4e78d627e906.bundle",
-        "size": 79199,
-        "hash": "f50c3aac3c2000c33be8de4077732920dae7505c572b7f0ad5de5bd697dab6df"
+      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_monoscripts_9b904c0d027b7e5729a0092cadb00f29.bundle": {
+        "name": "288be07d20a43d1f4aa31220ebf50316_monoscripts_9b904c0d027b7e5729a0092cadb00f29.bundle",
+        "size": 3727,
+        "hash": "2873f0e5ed9f930ffbbf3cdaf7ebc4996b454852c0912417dd2488152e10b546"
+      },
+      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle": {
+        "name": "288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle",
+        "size": 33754,
+        "hash": "7e20d87ac9334596f2271489097b3747cea4551c92106385b4c2e4ced22b195f"
+      },
+      "Addressables/StandaloneWindows64/tufprogression_assets_assets_all_7a164268c56656e5a444f766f67ce6e3.bundle": {
+        "name": "tufprogression_assets_assets_all_7a164268c56656e5a444f766f67ce6e3.bundle",
+        "size": 7627490,
+        "hash": "3ee4730820707c53d5536051d6fc09f145296a76cade37c7c481fe0f8aefc0a6"
+      },
+      "Addressables/StandaloneWindows64/tufprogression_assets_scenes_all_bfb4b83c21ca88fbc28dd0956dd1ad27.bundle": {
+        "name": "tufprogression_assets_scenes_all_bfb4b83c21ca88fbc28dd0956dd1ad27.bundle",
+        "size": 184875,
+        "hash": "b6d00ff67e66cea875aaf1654b798ec0041b5e0303a7993fd4b36a45da212518"
+      },
+      "Addressables/StandaloneWindows64/tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle": {
+        "name": "tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle",
+        "size": 356541,
+        "hash": "564e03fd917e38079873322e0381614f4a884333db48165963fa209efd16bf3a"
+      },
+      "Addressables/StandaloneWindows64/tufprogression_scenes_assets_all_f69eac494d02c95808b15170b54551e3.bundle": {
+        "name": "tufprogression_scenes_assets_all_f69eac494d02c95808b15170b54551e3.bundle",
+        "size": 79208,
+        "hash": "2a84cc9ac5767dba156ca5b0a4620c7ba0a2fdfc7257e31f37699bdc9a0d36e3"
       }
     },
-    "IgnorePurge": []
+    "IgnorePurge": [
+      "Setting.json"
+    ]
   }
 }
