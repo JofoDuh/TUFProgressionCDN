@@ -5,12 +5,12 @@
       "TUFProgression.bin": {
         "name": "TUFProgression.bin",
         "size": 53776,
-        "hash": "4d0c5e491ccfcb4787ba137f0b2701b1d6e74af5a135558510eaa4d09c711958"
+        "hash": "0b15b7da1f9b15e8ebb5b6ba15bc61fefe80805aebe0087197529755dacee963"
       },
       "TUFProgression.pdb": {
         "name": "TUFProgression.pdb",
-        "size": 28304,
-        "hash": "90550f35d3f270f64f830464c7163d276f6b0603deb22e3d0c8a0700fdcf276d"
+        "size": 28340,
+        "hash": "e0325aef7f00cc2d4e61f4a66e592c717ffff122551297c1468474b8fadd5920"
       },
       "Addressables/catalog.bin": {
         "name": "catalog.bin",
