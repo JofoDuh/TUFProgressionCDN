@@ -5,7 +5,7 @@
       "TUFProgression.Bootstrap.bin": {
         "name": "TUFProgression.Bootstrap.bin",
         "size": 56848,
-        "hash": "b53c683a2dfff1e632b3753f8eb809a88e28321166e5a3f6ce8f527afcbaa6b9"
+        "hash": "6e526266646c958a9aacd7d6590f9799b9be46434d7a321c10c0ec264d006ae0"
       },
       "TUFProgression.Bootstrap.pdb": {
         "name": "TUFProgression.Bootstrap.pdb",
@@ -15,7 +15,7 @@
       "TUFProgression.Shared.bin": {
         "name": "TUFProgression.Shared.bin",
         "size": 249872,
-        "hash": "167e962bc1cc1c386b21f23e10098e42f8f76d6b3515d4d3d41678db395b70f4"
+        "hash": "d148e0cef81a6284dc29deacd3ccbbb790580ce524a974efba27097b1e6af601"
       },
       "TUFProgression.Shared.pdb": {
         "name": "TUFProgression.Shared.pdb",
