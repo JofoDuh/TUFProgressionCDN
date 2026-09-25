@@ -2,9 +2,11 @@
   <assembly fullname="TUFProgression, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TUFProgression.SceneManagement.SceneTransition" preserve="all" />
     <type fullname="TUFProgression.Scenes.MainScene.MainSceneController" preserve="all" />
-    <type fullname="TUFProgression.Scenes.MainScene.MainSceneSettingPanel" preserve="all" />
     <type fullname="TUFProgression.Scenes.MainScene.MainSceneUI" preserve="all" />
     <type fullname="TUFProgression.Scenes.MainScene.Menus.MainMenu" preserve="all" />
+    <type fullname="TUFProgression.Scenes.MainScene.Menus.TierDetail" preserve="all" />
+    <type fullname="TUFProgression.Scenes.MainScene.Menus.TierList" preserve="all" />
+    <type fullname="TUFProgression.Scenes.MainScene.Modules.LevelItem" preserve="all" />
     <type fullname="TUFProgression.UI.Effects.TextMarquee" preserve="all" />
   </assembly>
   <assembly fullname="TUFProgression.Shared, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">

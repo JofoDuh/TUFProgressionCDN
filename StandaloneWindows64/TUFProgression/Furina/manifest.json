@@ -5,7 +5,7 @@
       "TUFProgression.bin": {
         "name": "TUFProgression.bin",
         "size": 100368,
-        "hash": "9dda853d5eb51523862a18e46c1370de2e2057f6c6e5ebcb2eec13debd033af4"
+        "hash": "b51e6371e555d14fcfdc982425d7ea7575526647c4400e3244482ef9c4bf9c8c"
       },
       "TUFProgression.pdb": {
         "name": "TUFProgression.pdb",
@@ -25,49 +25,49 @@
       "Addressables/settings.json": {
         "name": "settings.json",
         "size": 864,
-        "hash": "dbc03a5d7a5c7e4e907a2d4ef3b0acce37c68f3f776956f443cfbf402b9e912a"
+        "hash": "8651e13ee2083c839ac4dcca1b33ebdefcb6fe8f76e68e2b2ab72d984a3522bb"
       },
-      "Tools/7zz": {
-        "name": "7zz",
-        "size": 6051584,
-        "hash": "4d1baeaa33a40e7d8189c746a46f1be2186cc125bfcabfb63989db4e1c319247"
+      "Tools/7za.exe": {
+        "name": "7za.exe",
+        "size": 859136,
+        "hash": "0c1874ed0b16b12d4adbb56a89a009a7647337fa509bc90ff00189d92dd46925"
       },
       "Addressables/AddressablesLink/link.xml": {
         "name": "link.xml",
         "size": 9989,
         "hash": "793a7bffd790e9900d97adb13e78108f3b3eb92d2faeb6e85937079d44d01f35"
       },
-      "Addressables/StandaloneOSX/288be07d20a43d1f4aa31220ebf50316_monoscripts_3d0ee0c17fb611e0fc02885c2a2d8aa0.bundle": {
+      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_monoscripts_3d0ee0c17fb611e0fc02885c2a2d8aa0.bundle": {
         "name": "288be07d20a43d1f4aa31220ebf50316_monoscripts_3d0ee0c17fb611e0fc02885c2a2d8aa0.bundle",
         "size": 3945,
         "hash": "ce20b8a4a9cc4ef18ced4a463490ba87d5ad831945b61ba13e9d1750ab99bf95"
       },
-      "Addressables/StandaloneOSX/288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle": {
+      "Addressables/StandaloneWindows64/288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle": {
         "name": "288be07d20a43d1f4aa31220ebf50316_unitybuiltinassets_b0bf18eafcc597ba7850b9a663b91bc6.bundle",
         "size": 33754,
         "hash": "7e20d87ac9334596f2271489097b3747cea4551c92106385b4c2e4ced22b195f"
       },
-      "Addressables/StandaloneOSX/tufprogression_assets_assets_all_b3292f9431ce4e0d595514d87bc12aa6.bundle": {
+      "Addressables/StandaloneWindows64/tufprogression_assets_assets_all_b3292f9431ce4e0d595514d87bc12aa6.bundle": {
         "name": "tufprogression_assets_assets_all_b3292f9431ce4e0d595514d87bc12aa6.bundle",
         "size": 7660022,
         "hash": "dd224725793a669041bb31e3c031affbdf898a8456b6a1207a6564927ae0e661"
       },
-      "Addressables/StandaloneOSX/tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle": {
+      "Addressables/StandaloneWindows64/tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle": {
         "name": "tufprogression_diff_icons_assets_all_fc335745f94faaa3dda9643a2ec40f76.bundle",
         "size": 356541,
         "hash": "564e03fd917e38079873322e0381614f4a884333db48165963fa209efd16bf3a"
       },
-      "Addressables/StandaloneOSX/tufprogression_prefabs_assets_all_fc953ec199f4c50d198d10d97e5f0b18.bundle": {
+      "Addressables/StandaloneWindows64/tufprogression_prefabs_assets_all_fc953ec199f4c50d198d10d97e5f0b18.bundle": {
         "name": "tufprogression_prefabs_assets_all_fc953ec199f4c50d198d10d97e5f0b18.bundle",
         "size": 28199,
         "hash": "3c25511985f8afa6b24b04b29e7c053ce2bbfceed63164dd96b321cc8a51f951"
       },
-      "Addressables/StandaloneOSX/tufprogression_scenes_scenes_all_e95816ce9aaf23af872afc9b63727b7b.bundle": {
+      "Addressables/StandaloneWindows64/tufprogression_scenes_scenes_all_e95816ce9aaf23af872afc9b63727b7b.bundle": {
         "name": "tufprogression_scenes_scenes_all_e95816ce9aaf23af872afc9b63727b7b.bundle",
         "size": 62749,
         "hash": "5a93499c225edcff8e50d9fe9a88786d8dc44088e5560be1dc5f1938a7e26ce9"
       },
-      "Addressables/StandaloneOSX/tufprogression_shaders_materials_assets_all_9f3d89609000eb10296f70f2ebc29887.bundle": {
+      "Addressables/StandaloneWindows64/tufprogression_shaders_materials_assets_all_9f3d89609000eb10296f70f2ebc29887.bundle": {
         "name": "tufprogression_shaders_materials_assets_all_9f3d89609000eb10296f70f2ebc29887.bundle",
         "size": 24883,
         "hash": "539d2fc74901ccdf512672926f290443f2c7876c1313e95c7eb577b760621689"
